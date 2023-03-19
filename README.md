@@ -1,2 +1,1 @@
-# activity and intent
- 
+![gif](practice.gif)
